@@ -2,7 +2,7 @@
 
 ## GB HW1-3
 
-![img](https://avatars.mds.yandex.net/i?id=f889a01b7a844bdbe6b67b11715bfd6cacd6a33b-4567270-images-thumbs&n=13)
+
 
 HW1:
 «Введение в информационную безопасность»
